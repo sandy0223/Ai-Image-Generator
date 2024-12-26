@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 # How to use? 
 
-To use this via git clone : you have to add .env file and there you have to give your api key.
+To use this via git clone : you have to add `.env` file and there you have to give your api key.
 
 like `VITE_API_KEY= "Your key";`.
 
