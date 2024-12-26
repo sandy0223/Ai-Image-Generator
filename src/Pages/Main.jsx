@@ -11,9 +11,6 @@ function MAin() {
     return Math.floor(Math.random() * 9000000) + 1000000;
   };
 
- 
-
-
   const handleClick = async () => {
     setIsLoading(true);
     setOutput("");
